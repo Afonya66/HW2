@@ -1,0 +1,18 @@
+body{
+    background-color:rgba(33, 33, 37, 0.921);
+    color: aliceblue;
+    font-family: "Graphik", sans-serif;
+    color-scheme: dark;
+    padding-left: 20px;
+}
+
+h1{
+    font-weight: 400;
+    font-size: 32px;
+}
+
+h2{
+    font-weight: 400;
+    font-size: 32px;
+}
+ 
